@@ -134,7 +134,7 @@ export default function Hero() {
                                 <img
                                     src={profile}
                                     alt="Pallavi Banger"
-                                    className="w-full h-full object-cover"
+                                    className="w-full h-[500px] object-cover"
                                 />
                             </div>
                         </motion.div>
